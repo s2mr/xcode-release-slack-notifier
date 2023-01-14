@@ -25,7 +25,9 @@ CHECK_DAY_INTERVAL
 
 ## Example - CircleCI
 
-```.circleci/config.yml
+Update your `.circleci/config.yml`
+
+```
 version: 2.1
 
 executors:
